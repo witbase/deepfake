@@ -3,7 +3,7 @@
 
 This code will be open sourced to help establish baseline methods for research experiments and deepfake detection of faces.
 
-[The visualization of CAM extracted from detector on image of Midjourney, DALLE, and ImageNet](https://github.com/witbase/deepfake/blob/main/visual.jpg)
+![The visualization of CAM extracted from detector on image of Midjourney, DALLE, and ImageNet](https://github.com/witbase/deepfake/blob/main/visual.jpg)
 ## Environment setup
 **Classification environment:** 
 We recommend installing the required packages by running the command:
